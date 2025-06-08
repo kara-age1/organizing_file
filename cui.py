@@ -14,8 +14,8 @@ CATEGORY_MAP = {
 }
 
 # フォルダパス（固定）
-DOWNLOAD_DIR = Path(r"C:\Users\taiki\Downloads")
-SORTED_BASE_DIR = Path(r"C:\Users\taiki\Documents") / "sorted_downloads"
+DOWNLOAD_DIR = Path(r"C:\Users\kara-\Downloads")
+SORTED_BASE_DIR = Path(r"C:\Users\kara-\Documents") / "sorted_downloads"
 
 
 def get_category(extension):
